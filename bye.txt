@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 bye endl bye
+=======
+bye
+>>>>>>> 960a702a4e09b90549b3188443aa65ba81c5b6f1
